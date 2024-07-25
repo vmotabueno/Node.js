@@ -1,0 +1,13 @@
+{
+  "name": "estudos_node",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "Fundamentos_node.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
