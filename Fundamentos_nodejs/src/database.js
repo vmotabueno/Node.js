@@ -26,7 +26,7 @@ export class Database{
         return data
     }   
     
-    Insert(table, data) {
+    insert(table, data) {
       if (Array.isArray(this.#database[table])) {
         this.#database[table].push(data)
       } else {
